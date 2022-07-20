@@ -1,0 +1,14 @@
+2022-07-20 12:00:33,033 - BaseClass.BaseTest -INFO - Navigating to:https://practicetestautomation.com/practice-test-login/
+2022-07-20 12:00:33,033 [main] INFO BaseClass.BaseTest - Navigating to:https://practicetestautomation.com/practice-test-login/
+2022-07-20 14:48:26,428 - Selenium.ho.framework.HomePageTest -INFO - student
+2022-07-20 14:48:26,428 [main] INFO Selenium.ho.framework.HomePageTest - student
+2022-07-20 14:48:26,433 - Selenium.ho.framework.HomePageTest -INFO - Password123
+2022-07-20 14:48:26,433 [main] INFO Selenium.ho.framework.HomePageTest - Password123
+2022-07-20 14:48:29,327 - Selenium.ho.framework.HomePageTest -INFO - Email id and Password is entered
+2022-07-20 14:48:29,327 [main] INFO Selenium.ho.framework.HomePageTest - Email id and Password is entered
+2022-07-20 14:50:34,702 - Selenium.ho.framework.HomePageTest -INFO - student
+2022-07-20 14:50:34,702 [main] INFO Selenium.ho.framework.HomePageTest - student
+2022-07-20 14:50:34,707 - Selenium.ho.framework.HomePageTest -INFO - Password123
+2022-07-20 14:50:34,707 [main] INFO Selenium.ho.framework.HomePageTest - Password123
+2022-07-20 14:50:40,289 - Selenium.ho.framework.HomePageTest -INFO - Email id and Password is entered
+2022-07-20 14:50:40,289 [main] INFO Selenium.ho.framework.HomePageTest - Email id and Password is entered
